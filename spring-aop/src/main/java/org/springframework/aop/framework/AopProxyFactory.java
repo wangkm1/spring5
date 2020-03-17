@@ -41,6 +41,7 @@ package org.springframework.aop.framework;
  * @author Rod Johnson
  * @author Juergen Hoeller
  */
+// Aop 生成代理对象的抽象 唯一的实现类 DefaultAopProxyFactory
 public interface AopProxyFactory {
 
 	/**
